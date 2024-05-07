@@ -1,7 +1,7 @@
 {
     "builds": [
       {
-        "src": "todo/wsgi.py",
+        "src": "/build_files.sh",
         "use": "@vercel/python",
         "config": { "maxLambdaSize": "15mb", "runtime": "python3.12" }
       }
