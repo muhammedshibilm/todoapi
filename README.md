@@ -1,7 +1,3 @@
-Creating a good and attractive README file is crucial for providing clear instructions and information about your project. Here's a template you can follow to create one for your Django Todo API:
-
----
-
 # Todo API
 
 This is a Django-based Todo API that allows users to register, login, create, update, delete todos, and refresh access tokens using JWT authentication.
