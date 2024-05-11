@@ -125,6 +125,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to [Django](https://www.djangoproject.com/) and [Django Rest Framework](https://www.django-rest-framework.org/) for making API development easier.
 - Inspiration from [TodoMVC](http://todomvc.com/) for the Todo app concept.
 
----
-
-Feel free to customize the README further based on your project's specific features, requirements, and preferences. Ensure to include any additional information that might be helpful for users and contributors.
